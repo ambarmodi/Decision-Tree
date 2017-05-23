@@ -18,8 +18,7 @@ public class ProgramDT {
 	public static boolean ENTROPY = true;
 
 	/**
-	 * @param args : Program requires arguments as <training-set> <validation-set> <test-set> <to-print>
-		The argument to-print accepts value {yes,no}
+	 * @param args : Program requires arguments as <training-set> <validation-set> <test-set> <to-print> The argument to-print accepts value {yes,no}
 	 */
 	public static void main(String[] args) {
 		// Below lines for testing purpose.
