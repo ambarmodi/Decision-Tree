@@ -3,7 +3,7 @@ Implement the decision tree learning algorithm using Information gain heuristic 
 
 Instructions to execute:
 1. make 						       (This will compile the program)
-2. java ProgramDT <training-set> <validation-set> <test-set> <to-print> 	(This will generate both the inorder and out-of-order output_file)
+2. java ProgramDT training-set <validation-set> <test-set> <to-print> 	(This will generate both the inorder and out-of-order output_file)
 3. make clean 						(Optional : This will clean compiled .class files)
 
 Output of the program:
